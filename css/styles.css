@@ -12,6 +12,7 @@
 
 #form {
     text-align: center;
+    margin-top: 13px;
     padding-top: 18px;
     padding-right: 80px;
 }
@@ -25,6 +26,17 @@
     border-left-style: groove;
     border-bottom-style: groove;
     outline: none;
+}
+
+#google-search {
+    padding: 7px 10px;
+    margin-right: 22px;
+
+}
+
+#feeling-lucky {
+    padding: 7px 10px;
+    margin-left: 22px;
 }
 
 ul {
@@ -41,4 +53,9 @@ li a {
 li img {
     display: inline;
     padding: 25px 22px;
+}
+
+.form-group {
+    margin-top: 18px;
+    padding-top: 10px;
 }
