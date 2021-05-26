@@ -4,16 +4,41 @@
     padding-top: 10.5%;
 }
 
+#github-logo {
+    width: 1.5%;
+    height: 1.5%;
+    display: block;
+}
+
+#form {
+    text-align: center;
+    padding-top: 18px;
+    padding-right: 80px;
+}
+
+#query {
+    height: 30px;
+    width: 450px;
+    border-radius: 10px;
+    border-top-style: groove;
+    border-right-style: groove;
+    border-left-style: groove;
+    border-bottom-style: groove;
+    outline: none;
+}
+
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
   }
 
 li a {
     display: inline;
     color: rgb(17, 16, 16);
-    padding: 14px 16px;
-    padding-top: 15px;
+    padding: 17.49px 22px;
     text-decoration: none;
+}
+
+li img {
+    display: inline;
+    padding: 25px 22px;
 }
