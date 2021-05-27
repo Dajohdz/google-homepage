@@ -50,6 +50,7 @@ li a {
     text-decoration: none;
 }
 
+
 li img {
     display: inline;
     padding: 25px 22px;
@@ -66,4 +67,16 @@ li img {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+#github-logo:hover {
+    transform: scale(1.1);
+}
+
+#query:hover {
+    box-shadow: 0 0 20px rgb(185, 184, 184);
 }
