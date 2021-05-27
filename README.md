@@ -1,5 +1,7 @@
 A replication of Google's homepage using HTML and CSS.
 
+[Live Version](https://dajohdz.github.io/google-homepage/)
+
 What I learned during this project:
 1. How to use Google to find answers to problems
 2. Basic HTML
