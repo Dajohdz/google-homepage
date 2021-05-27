@@ -45,7 +45,7 @@ ul {
 
 li a {
     display: inline;
-    color: rgb(17, 16, 16);
+    color: rgb(59, 56, 56);
     padding: 17.49px 22px;
     text-decoration: none;
 }
@@ -58,4 +58,12 @@ li img {
 .form-group {
     margin-top: 18px;
     padding-top: 10px;
+}
+
+.bot-navbar {
+    background-color:rgb(238, 238, 238);
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
